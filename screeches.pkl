@@ -1,0 +1,6 @@
+module screeches
+
+class dialogue {
+    character: String
+    line: String
+}
